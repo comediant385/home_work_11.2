@@ -1,8 +1,3 @@
 def func(word):
-    """Upper word"""
+    """Перевод строки в верхний регистр"""
     return word.upper()
-
-def func2(word):
-    """Title word"""
-    return word.title()
-
